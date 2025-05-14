@@ -2,7 +2,8 @@
 
 ## Solution of question 1(in sql server)
 
-![question 1](https://github.com/user-attachments/assets/57000747-44de-47a1-8f42-c9e1f5a09a97)
+![question 1](https://github.com/user-attachments/assets/65e0da7e-a752-489c-b436-6372a70c1959)
+![question 1 part 2](https://github.com/user-attachments/assets/d0b26fa7-b855-42f7-92ff-4c9b0eeed5ab)
 
 
 ## Solution of question 2
