@@ -8,4 +8,4 @@ WHERE species LIKE 'Panthera tigris%';
 
 SELECT ncbi_id
 FROM taxonomy
-WHERE species = 'Panthera tigris sumatrae';
+WHERE species LIKE 'Panthera tigris sumatrae%';
